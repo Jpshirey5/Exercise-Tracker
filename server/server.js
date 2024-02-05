@@ -13,3 +13,5 @@ app.listen(port, () => {
     console.log(`Server is running on: ${port}`);
  
 });
+
+// still needs to be connected through MongoDB Atlas
